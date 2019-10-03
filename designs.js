@@ -32,6 +32,8 @@ makeGrid(rows,cols);//calling of makeGrid function to make the grid
           
           color=$('#colorPicker').val();
                     $(this).css('background-color',color);
+	      
+	      //for hacktober fest
                    
       
       })
